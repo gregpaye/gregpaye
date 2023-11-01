@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregpaye
 - 👀 I’m interested in software testing automation applications and utility apps.
-- 🌱 I’m currently learning JavaScript Node, Python, C#, Agile Development, Chaos Engineering.
-- 💞️ I’ve created JavaScript applications for server, API, and service testing.
+- 🌱 I have professional experince in JavaScript Node and C++ development.
+- 💞️ Recently I created a Node-based services/API tester, an automated task tool with Selenium, and a server monitoring Chrome extension.
 - 📫 How to reach me https://www.linkedin.com/in/gregpaye/
 
 <!---
