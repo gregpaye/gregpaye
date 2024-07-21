@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregpaye
-- 👀 I’m interested in software testing automation applications and utility apps.
-- 🌱 I have professional experince in JavaScript Node and C++ development.
-- 💞️ Recently I created a Node-based services/API tester, an automated task tool with Selenium, a Node-based workflow Slackbot tool, and a JavaScript server monitoring Chrome extension.
+- 👀 I develop apps, tools, and scripts for software quality assurance testing.
+- 🌱 I have professional experince in JavaScript Node, Java, and C++.
+- 💞️ My most recent work is a series of automated unit and system tests in TestComplete, a Node-services API tester, a Node-based workflow Slackbot app, and a JavaScript Chrome extension for server monitoring.
 - 📫 How to reach me https://www.linkedin.com/in/gregpaye/
 
 <!---
